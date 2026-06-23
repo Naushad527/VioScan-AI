@@ -93,7 +93,7 @@ This repository contains the architecture, implementation plan, and presentation
 * Multi-City Scalability
 
 ### Team
-NAushad
+Naushad
 Saksham
 Gulshan
 Shubhum
