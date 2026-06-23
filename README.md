@@ -93,6 +93,8 @@ This repository contains the architecture, implementation plan, and presentation
 * Multi-City Scalability
 
 ### Team
+NAushad
+Saksham
+Gulshan
+Shubhum
 
-ASTraM Hackathon 2025 Submission
-VioScan AI Team
